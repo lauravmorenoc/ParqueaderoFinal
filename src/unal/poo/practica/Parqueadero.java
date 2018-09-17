@@ -5,8 +5,8 @@ import javax.swing.*;
 import javax.swing.JOptionPane;
 
 /** 
- * Practica de los conceptos de Programacion Estructurada
- * @author Fabian Andres Giraldo */
+ * Practica de los conceptos de Programacion Estructurada y POO
+ * @author Laura Moreno, Hernan Quiroga, Juan Carrero, Juan Cardenas */
 public class Parqueadero
 {    
     private Zona zona[]=new Zona[3];
